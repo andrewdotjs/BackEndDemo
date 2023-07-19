@@ -1,6 +1,6 @@
 # BackEndDemo
 
-This is a demonstrating of my back-end skills.
+This is a quick demonstration of my back-end skills.
 
 ## Project Checklist
 
